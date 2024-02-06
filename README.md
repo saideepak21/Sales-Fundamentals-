@@ -47,7 +47,7 @@ Provide insights into the reasons behind the observed trends and any identified 
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/518c2839-fd6e-4865-ac3e-0d2e74bbb023)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/9ef0fddf-506b-4cec-b4fb-ef3680187659)
 
-
+**Distribution**
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/1cf4d64d-65c7-42ae-955b-9d77ea9b694f)
 
 
