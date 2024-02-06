@@ -18,7 +18,7 @@ To analyze the zone-wise bill cut trend across India and identify the top-sellin
 -Identify trends or patterns in bill cuts across different zones.
 -Determine the top-selling products based on sales data.
 
-**Insights :**
+**Insights:**
 Provide insights into why certain zones have higher bill cuts compared to others.
 Analyze factors influencing product sales and identify strategies to capitalize on top-selling products.
 
@@ -42,16 +42,16 @@ Determine the factors influencing the trends, such as market demand, product ava
 **Insights**
 Provide insights into the reasons behind the observed trends and any identified needs for development.
 
-P2 & P3 Trends L3M(Nov,Dec & Jan) 
+**P2 & P3 Trends L3M(Nov,Dec & Jan)**
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/120214a1-2a37-46c7-a092-18ae628653a6)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/518c2839-fd6e-4865-ac3e-0d2e74bbb023)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/9ef0fddf-506b-4cec-b4fb-ef3680187659)
 
-Current Distribution
+
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/1cf4d64d-65c7-42ae-955b-9d77ea9b694f)
 
 
-Channel Performance
+**Channel Performance:**
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/cbc7161e-4f68-4ca4-a3ce-ddc7154e3252)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/5dda63fb-31c7-4798-a7c6-92b94050e4d4)
 
