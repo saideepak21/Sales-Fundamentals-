@@ -1,4 +1,4 @@
-# Sales-Fundamentals-
+![image](https://github.com/user-attachments/assets/aaf879e3-59aa-4832-b766-46d378539776)# Sales-Fundamentals-
 Sales Fundamentals" refers to the foundational principles, skills, and techniques essential for success in the field of sales. These fundamentals provide a framework for sales professionals to effectively engage with Distributor's, build relationships, and drive revenue growth.
 
 
@@ -54,6 +54,18 @@ Provide insights into the reasons behind the observed trends and any identified 
 **Channel Performance:**
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/cbc7161e-4f68-4ca4-a3ce-ddc7154e3252)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/5dda63fb-31c7-4798-a7c6-92b94050e4d4)
+
+**Slab Booking Monthly **
+
+1. **Overview**: Briefly explain the purpose of the report, such as analyzing **sales productivity and market reach across different regions**. Mention that it provides insights into the **distribution of TSI (Territory Sales Incharge) and TSM (Territory Sales Manager) activities**, as well as the **value-based booking slabs** for a better understanding of retail outlet engagement.
+
+2. **Structure and Metrics**: Highlight key components of the report:
+   - **Region**: Shows the geographical distribution.
+   - **Active TSM and TSI Counts**: Indicates the number of active sales managers and incharges, emphasizing the reach and engagement levels in each region.
+   - **Slab Bookings**: Breakdown of orders booked across various slabs (by count and value) to show booking frequency and order sizes.
+   - **Total Orders by Value**: Summarizes the monetary value of orders in each slab, useful for evaluating sales potential and performance by region.
+![image](https://github.com/user-attachments/assets/8075f89c-4cc1-47e2-bc1c-699d7c7b9e7b)
+
 
 
 
