@@ -64,7 +64,7 @@ Provide insights into the reasons behind the observed trends and any identified 
    - **Active TSM and TSI Counts**: Indicates the number of active sales managers and incharges, emphasizing the reach and engagement levels in each region.
    - **Slab Bookings**: Breakdown of orders booked across various slabs (by count and value) to show booking frequency and order sizes.
    - **Total Orders by Value**: Summarizes the monetary value of orders in each slab, useful for evaluating sales potential and performance by region.
-![image](https://github.com/user-attachments/assets/8075f89c-4cc1-47e2-bc1c-699d7c7b9e7b)
+![image](https://github.com/user-attachments/assets/72de82df-bb62-4c97-b12a-c6d8a21e00d4)
 
 
 
