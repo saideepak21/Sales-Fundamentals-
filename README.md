@@ -25,10 +25,10 @@ Analyze factors influencing product sales and identify strategies to capitalize 
 
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/0fb6c6c1-3644-40d9-8a8a-e6b6f41cb59d)
 
-To analyze the P2 (SS to DB) and P3 (DB to retail) billing trends on a monthly basis and understand the need for development, you would typically follow these steps:
+To analyze the P2 (SS to DB) and P3 (DB to retail) billing trends monthly and understand the need for development, you would typically follow these steps:
 
 **Data Collection:** 
-Gather billing data for both P2 and P3 transactions on a monthly basis.
+Gather billing data for both P2 and P3 transactions monthly.
 
 **Data Analysis:**
 Calculate the total volume and value of P2 and P3 transactions for each month.
