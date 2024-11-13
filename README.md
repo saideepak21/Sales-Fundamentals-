@@ -66,6 +66,38 @@ Provide insights into the reasons behind the observed trends and any identified 
    - **Total Orders by Value**: Summarizes the monetary value of orders in each slab, useful for evaluating sales potential and performance by region.
 ![image](https://github.com/user-attachments/assets/72de82df-bb62-4c97-b12a-c6d8a21e00d4)
 
+**Target vs Acheivement **
+Purpose: Tracks daily target vs. achievement for Area Sales Managers across regions, offering a comprehensive performance snapshot.
+Key Metrics:
+
+P1, P2, and P3 Performance: Detailed target, achievement, and fulfillment rates by level.
+Eco Orders (ECO) and Bill Cuts (BC): Tracks outlet engagement metrics across categories (UG-HRS, UY-HRS, HVP).
+Insights Provided:
+
+Identifies high and low performers for quick intervention.
+Supports real-time adjustments and strategic planning.
+Skills Demonstrated:
+
+Performance tracking, sales strategy optimization, and data-driven decision-making.
+This report showcases analytical skills, aiding in effective goal setting and operational efficiency.
+![image](https://github.com/user-attachments/assets/5872d463-b6dd-40c3-bfe2-33c741d4c248)
+
+**Daily Productivity**
+Provides a detailed view of daily productivity by region for Area Sales Managers (ASMs), tracking performance and attendance metrics for sales teams (TSMs and TSIs).
+Key Metrics:
+
+Attendance Tracking: Active TSMs and TSIs vs. absences to gauge workforce availability.
+Productivity KPIs:
+Day P3 Value: Indicates sales value achieved on the day.
+Daily and MTD (Month-to-Date) Productivity Counts: Day PC, MTD PC, and average PCs to monitor consistent performance.
+Transaction Counts (TC): Day and MTD TC to measure transaction volume per ASM.
+Insights:
+
+Enhances monitoring of daily regional productivity.
+Assists in identifying trends in workforce effectiveness and transactional efficiency.
+This report demonstrates skills in KPI tracking and productivity analysis, aiding in data-driven decision-making and performance management.
+![image](https://github.com/user-attachments/assets/f4945604-e36a-44f8-9885-96ef473c5e4f)
+
 
 
 
