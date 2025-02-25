@@ -15,7 +15,6 @@ Data Analysis
 **Insights:**
 Provide insights into why certain zones have higher bill cuts compared to others.
 Analyze factors influencing product sales and identify strategies to capitalize on top-selling products.
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/0fb6c6c1-3644-40d9-8a8a-e6b6f41cb59d)
 
 To analyze the P2 (SS to DB) and P3 (DB to retail) billing trends monthly and understand the need for development, you would typically follow these steps:
 **Data Collection:** 
@@ -97,5 +96,20 @@ Workforce Utilization: Assess active vs. absent workforce, helping identify oper
 Productivity Benchmarking: Daily averages allow comparisons across regions and teams, promoting transparency and targeted improvements.
 This report format provides a comprehensive view of TSM and TSI contributions across regions, facilitating better performance tracking and workforce planning. By analyzing these metrics, managers can make informed decisions to enhance productivity and address any gaps in sales coverage or efficiency
 ![image](https://github.com/user-attachments/assets/ba38cbfe-947b-43d7-85c0-0c66f9b232e6)
+**Data Model for Sales & Distribution Analytics**
+This Power BI Data Model is designed to analyze sales, distribution, and operational performance across various hierarchies, including Zones, Subzones, Cities, Districts, Distributors, and Outlets. It integrates multiple datasets to provide real-time insights into business performance for FMCG business.
+![image](https://github.com/user-attachments/assets/07f2d0cb-65f7-434e-a27d-cdba95ff2d87)
+Data Model Structure
+📅 DateTable: Acts as a time dimension for trend analysis (Year, Month, Weekday).
+📦 SKU Master: Stores product-level details (Brand, Category, SKU, Forecast & Actual Sales).
+🏪 Outlet Dump & BeatMaster: Tracks distributor information and sales beat activity.
+📊 Primary & Secondary Order Reports: Captures order transactions at different levels (Primary, Secondary).
+📍 Daily Attendance & P3 Dump: Logs field sales activity, check-in/check-out times.
+👥 Users & DB Dump: Stores employee and distributor metadata.
+Business Impact
+📌 Sales Forecasting & Demand Planning: Predict sales trends based on SKU performance.
+📌 Distributor Performance Evaluation: Track & optimize distributor efficiency.
+📌 Field Sales Effectiveness: Improve beat planning based on sales rep performance.
+📌 Inventory Management & Optimization: Ensure product availability with demand-based stocking.
 
 
