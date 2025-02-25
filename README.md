@@ -1,5 +1,5 @@
 # Sales-Fundamentals-
-Sales Fundamentals" refers to the foundational principles, skills, and techniques essential for success in the field of sales. These fundamentals provide a framework for sales professionals to effectively engage with Distributor's, build relationships, and drive revenue growth.
+Sales Fundamentals" refers to the foundational principles, skills, and techniques essential for success in the field of sales. These fundamentals provide a framework for sales professionals to effectively engage with distributors, build relationships, and drive revenue growth.
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/290edcaf-b4c3-4603-9145-48555a835043)
 
 Image aims to provide comprehensive coverage of the specified outlets month-wise, offering in-depth analysis, insights, and data on various aspects. 
@@ -38,12 +38,6 @@ Provide insights into the reasons behind the observed trends and any identified 
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/518c2839-fd6e-4865-ac3e-0d2e74bbb023)
 ![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/9ef0fddf-506b-4cec-b4fb-ef3680187659)
 
-**Distribution**
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/1cf4d64d-65c7-42ae-955b-9d77ea9b694f)
-**Channel Performance:**
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/cbc7161e-4f68-4ca4-a3ce-ddc7154e3252)
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/5dda63fb-31c7-4798-a7c6-92b94050e4d4)
-
 **Slab Booking Monthly **
 **Overview**: Briefly explain the purpose of the report, such as analyzing **sales productivity and market reach across different regions**. Mention that it provides insights into the **distribution of TSI (Territory Sales Incharge) and TSM (Territory Sales Manager) activities**, as well as the **value-based booking slabs** for a better understanding of retail outlet engagement.
 **Structure and Metrics**: 
@@ -54,7 +48,7 @@ Provide insights into the reasons behind the observed trends and any identified 
    - **Total Orders by Value**: Summarizes the monetary value of orders in each slab, which is useful for evaluating sales potential and performance by region.
 ![image](https://github.com/user-attachments/assets/72de82df-bb62-4c97-b12a-c6d8a21e00d4)
 
-**Target vs Acheivement **
+**Target vs Achievement **
 Purpose: Tracks daily target vs. achievement for Area Sales Managers across regions, offering a comprehensive performance snapshot.
 Key Metrics:
 P1, P2, and P3 Performance: Detailed target, achievement, and fulfillment rates by level.
