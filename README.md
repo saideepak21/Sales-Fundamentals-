@@ -1,11 +1,4 @@
-
-
-
-# Sales-Fundamentals-
-Sales Fundamentals" refers to the foundational principles, skills, and techniques essential for success in the field of sales. These fundamentals provide a framework for sales professionals to effectively engage with distributors, build relationships, and drive revenue growth.
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/290edcaf-b4c3-4603-9145-48555a835043)
-
-# 🚀 PAN India SFA & DMS Power BI & Excel Implementation – Enterprise-Scale BI Dashboard
+# 🚀 PAN India SFA & DMS Power BI & Excel - Scale BI Dashboard
 
 ## 📌 Project Overview
 
@@ -15,7 +8,7 @@ As part of my role in Sales Analytics & MIS, I successfully **implemented and au
 
 ## 🌐 Scope of Work
 
-✅ Integrated data from over 25 states  
+✅ Integrated data from diffrent data sources  
 ✅ Mapped over 1 lakh+ outlets with beat routing  
 ✅ Onboarded 800+ field reps with SFA mobile tracking  
 ✅ Designed 50+ dynamic Power BI dashboards & Excel summary packs  
@@ -92,28 +85,14 @@ As part of my role in Sales Analytics & MIS, I successfully **implemented and au
 ---
 
 ## 📸 Sample Dashboard Screenshots
+![image](https://github.com/user-attachments/assets/02a11d6a-ed24-4386-b884-6266265518a3)
 ![image](https://github.com/user-attachments/assets/21722c13-d1fe-4ed5-8f19-fe6512c0d6d6)
 ![image](https://github.com/user-attachments/assets/3ea0ef00-dbda-418a-a7e4-9a8659d99bdc)
 ![image](https://github.com/user-attachments/assets/5227375e-8b74-4a36-bc09-3e8adfeba699)
 ![image](https://github.com/user-attachments/assets/ff9de0b8-1286-43d2-a3ea-99e07a8aba23)
 
-
----
-
-## 📎 Repository Content
-
-| Folder Name       | Description                                       |
-|-------------------|---------------------------------------------------|
-| `/pbix_files`     | Power BI source files                            |
-| `/datasets`       | Sample (mocked) Excel/CSV files for demo         |
-| `/screenshots`    | Dashboard images and GIF previews                |
-| `/SQL_scripts`    | Source queries used for model building           |
-
-
-
 Image aims to provide comprehensive coverage of the specified outlets month-wise, offering in-depth analysis, insights, and data on various aspects. 
 From macroeconomic trends to individual company performance, we deliver a holistic view to inform decision-making and understanding within the designated scope.
-![image](https://github.com/saideepak21/Sales-Fundamentals-/assets/126313546/c742da70-2364-4538-9890-84ad9b8234e3)
 
 To analyze the zone-wise bill cut trend across India and identify the top-selling products, you would typically follow these steps:
 Data Analysis
@@ -207,7 +186,7 @@ This report format provides a comprehensive view of TSM and TSI contributions ac
 ![image](https://github.com/user-attachments/assets/ba38cbfe-947b-43d7-85c0-0c66f9b232e6)
 **Data Model for Sales & Distribution Analytics**
 This Power BI Data Model is designed to analyze sales, distribution, and operational performance across various hierarchies, including Zones, Subzones, Cities, Districts, Distributors, and Outlets. It integrates multiple datasets to provide real-time insights into business performance for FMCG business.
-![image](https://github.com/user-attachments/assets/07f2d0cb-65f7-434e-a27d-cdba95ff2d87)
+
 Data Model Structure
 📅 DateTable: Acts as a time dimension for trend analysis (Year, Month, Weekday).
 📦 SKU Master: Stores product-level details (Brand, Category, SKU, Forecast & Actual Sales).
